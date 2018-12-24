@@ -11,6 +11,7 @@ export const grpcClientOptions: ClientOptions = {
     loader: {
       keepCase: true,
       longs: Number,
+      enums: String,
       defaults: false,
       arrays: true,
       objects: true,

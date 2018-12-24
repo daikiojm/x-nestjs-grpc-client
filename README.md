@@ -2,8 +2,8 @@
 
 ## Description
 
-Sample gRPC handling with Nest.js.
-This repository handles the following server code.
+Sample gRPC handling with Nest.js.  
+This repository handles the following server code.  
 [jnst/x-nestjs-grpc](https://github.com/jnst/x-nestjs-grpc)
 
 ## Environment
